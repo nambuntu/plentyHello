@@ -5,7 +5,7 @@ use Plenty\Plugin\ServiceProvider;
 
 /**
  * Class HelloWorldServiceProvider
- * @package HelloWorld\Providers
+ * @package PlentyHello\Providers
  */
 class HelloWorldServiceProvider extends ServiceProvider
 {

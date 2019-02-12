@@ -6,7 +6,7 @@ use Plenty\Plugin\Routing\Router;
 
 /**
  * Class HelloWorldRouteServiceProvider
- * @package HelloWorld\Providers
+ * @package PlentyHello\Providers
  */
 class HelloWorldRouteServiceProvider extends RouteServiceProvider
 {
@@ -15,7 +15,7 @@ class HelloWorldRouteServiceProvider extends RouteServiceProvider
 	 */
 	public function map(Router $router)
 	{
-		$router->get('hello', 'HelloWorld\Controllers\ContentController@sayHello');
+		$router->get('hello', 'PlentyHello\Controllers\ContentController@sayHello');
 	}
 
 }

@@ -6,7 +6,7 @@ use Plenty\Plugin\Templates\Twig;
 
 /**
  * Class ContentController
- * @package HelloWorld\Controllers
+ * @package PlentyHello\Controllers
  */
 class ContentController extends Controller
 {
