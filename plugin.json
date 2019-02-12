@@ -1,7 +1,7 @@
 {
-      "name":"HelloWorld",
+      "name":"PlentyHello",
       "description":"Nam first plugin",
-      "namespace":"HelloWorld",
+      "namespace":"PlentyHello",
       "author":"Nam Nguyen",
       "type":"template",
       "serviceProvider":"PlentyHello\\Providers\\HelloWorldServiceProvider"
