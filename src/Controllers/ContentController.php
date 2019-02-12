@@ -1,5 +1,5 @@
 <?php
-namespace HelloWorld\Controllers;
+namespace PlentyHello\Controllers;
 
 use Plenty\Plugin\Controller;
 use Plenty\Plugin\Templates\Twig;

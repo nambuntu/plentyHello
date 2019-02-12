@@ -1,5 +1,5 @@
 <?php
-namespace HelloWorld\Providers;
+namespace PlentyHello\Providers;
 
 use Plenty\Plugin\RouteServiceProvider;
 use Plenty\Plugin\Routing\Router;

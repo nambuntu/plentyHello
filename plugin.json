@@ -4,5 +4,5 @@
       "namespace":"HelloWorld",
       "author":"Nam Nguyen",
       "type":"template",
-      "serviceProvider":"HelloWorld\\Providers\\HelloWorldServiceProvider"
+      "serviceProvider":"PlentyHello\\Providers\\HelloWorldServiceProvider"
 }
