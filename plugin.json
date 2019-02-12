@@ -1,8 +1,8 @@
 {
       "name":"HelloWorld",
-      "description":"My first plugin",
+      "description":"Nam first plugin",
       "namespace":"HelloWorld",
-      "author":"Christian Moll",
+      "author":"Nam Nguyen",
       "type":"template",
       "serviceProvider":"HelloWorld\\Providers\\HelloWorldServiceProvider"
 }
